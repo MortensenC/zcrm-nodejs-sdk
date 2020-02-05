@@ -1,6 +1,6 @@
 {
-  "name": "@mortensenc/zcrmsdk",
-  "version": "0.1.1",
+  "name": "@cmortensen/zcrmsdk",
+  "version": "0.1.0",
   "description": "Node SDK for Zoho CRM",
   "main": "lib/js/ZCRMRestClient",
   "scripts": {
@@ -39,8 +39,5 @@
   "bugs": {
     "url": "https://github.com/MortensenC/zcrm-nodejs-sdk/issues"
   },
-  "homepage": "https://github.com/MortensenC/zcrm-nodejs-sdk#readme",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@mortensenc"
-  }
+  "homepage": "https://github.com/MortensenC/zcrm-nodejs-sdk#readme"
 }
